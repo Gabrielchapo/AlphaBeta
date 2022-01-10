@@ -27,7 +27,7 @@ python3 main.py
 
 ### Screenshots
 
-![alt text](https://github.com/gabrielchapo/AlphaBeta/image.jpg?raw=true)
+![alt text](https://github.com/Gabrielchapo/AlphaBeta/blob/main/image.jpg?raw=true)
 
 ### Content
 

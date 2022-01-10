@@ -288,7 +288,7 @@ def process_message(map, message):
 if __name__ == '__main__':
     
     client_socket = ClientSocket('localhost', 5555)
-    client_socket.send_nme("JPG-JeanPaulGabriel")
+    client_socket.send_nme("AlphaBeta_V1")
     
     # set message, size = (nb_row, nb_column)
     message = client_socket.get_message()

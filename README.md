@@ -10,7 +10,7 @@ on a homemade boardgame called Vampires VS Werewolfs
 ## Installation
 
 Download this server :
-* [Link to project](https://github.com/Succo/twilight)
+* [twillight server](https://github.com/Succo/twilight)
 
 To build the serveur and run it (-rand is for random map) :
 ```
@@ -27,13 +27,15 @@ python3 main.py
 
 ### Screenshots
 
+![alt text](https://github.com/gabrielchapo/AlphaBeta/image.jpg?raw=true)
+
 ### Content
 
 Description, sub-modules organization...
 
 ## Resources
 
-* [Link to project](https://github.com/Succo/twilight)
+* [twillight server](https://github.com/Succo/twilight)
 
 
 ## License
